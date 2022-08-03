@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imashitedev
 - 👀 I’m interested in making money and building for the future
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me shitedev69420@gmail.com
 
 <!---
